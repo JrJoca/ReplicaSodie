@@ -1,0 +1,48 @@
+body{
+    background-color: #FFD9A4;
+}
+
+p{
+    color: rgb(255, 254, 254);
+    font-size: 15px;
+    font-family: Arial;
+}
+
+header{
+    background-color: #FFD9A4;
+    height: 80px;
+    padding: 20px;
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+}
+
+footer{
+    clear: both;
+    background-color: cadetblue;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+#principal{
+    min-height: 600px;
+    background-image: url('Bolo1.jpg');
+    background-repeat: no-repeat;
+    background-size: auto/cover;
+    padding: 100px;
+    float: left;
+}
+
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial;
+}
